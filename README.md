@@ -1,18 +1,49 @@
-# Deveroax
+# Nic Richards
 
-I build tools and operating procedures for safer agent operations.
-These educational projects rehearse service diagnosis, database failures, and draft integrity before live changes.
-The emphasis is on evidence: what ran, what failed, what stayed unchanged, and what still needs approval.
-I prepare this work with Hermes Agent assistance and keep simulated checks distinct from production readiness.
+**AI solutions · workflow automation · technical implementation**
 
-## Start with a task
+I combine business operations, technical B2B experience, and scientific training with hands-on AI workflow development. I build tested systems that help people turn manual processes into structured, reviewable workflows.
 
-| If you want to… | Explore | First step |
-| --- | --- | --- |
-| Give an agent clearer operational boundaries | [Agent operations skills](https://github.com/Deveroax/agent-operations-skills) | Read a fictional case and run the documentation validator |
-| Practice failure and rollback before a database release | [PostgreSQL release rehearsal](https://github.com/Deveroax/postgresql-release-rehearsal-starter) | Run the no-database tests, then the disposable-cluster rehearsal |
-| Correct a draft without reusing a stale review | [Immutable content rehearsal](https://github.com/Deveroax/immutable-content-rehearsal-starter) | Run the offline demo and inspect the corrected HTML/text |
+## What I bring
 
-These are focused teaching artifacts, not production frameworks. A successful
-rehearsal is evidence about that rehearsal—not permission to change a service,
-apply a production migration, or publish content.
+- Translate customer and operational needs into clear technical requirements
+- Design human-in-the-loop AI workflows with explicit review and approval states
+- Build and test with Python, SQL/PostgreSQL, Git, and GitHub
+- Document processes so technical and nontechnical teams can use them
+- Communicate across customers, engineers, operations, researchers, and leadership
+
+## Featured work
+
+### [Agent Operations Skills](https://github.com/Deveroax/agent-operations-skills)
+Practical playbooks for operating AI agents with clear approval boundaries, verification steps, and failure handling. Includes fictional examples and a tested documentation validator.
+
+**Demonstrates:** AI-agent operations, workflow design, human review, documentation, and testing.
+
+### [Immutable Content Rehearsal](https://github.com/Deveroax/immutable-content-rehearsal-starter)
+An offline Python demonstration of append-only correction history, deterministic rendering, version-bound review, and rejection of stale approvals.
+
+**Demonstrates:** Python, data integrity, approval binding, reproducible tests, and auditability.
+
+### [PostgreSQL Release Rehearsal](https://github.com/Deveroax/postgresql-release-rehearsal-starter)
+A disposable practice environment for detecting database drift, proving rollback, and validating forward corrections before a real release is considered.
+
+**Demonstrates:** PostgreSQL, failure testing, rollback verification, release discipline, and evidence-based operations.
+
+These are self-directed educational projects prepared with Hermes Agent assistance. Fictional scenarios and simulated reviews demonstrate bounded behavior—not production deployment, authenticated approval, or customer adoption.
+
+## Current direction
+
+I am building toward customer-facing AI implementation, workflow automation, solutions consulting, technical operations, and AI enablement roles—especially where business discovery and reliable technical execution need to work together.
+
+## Toolkit
+
+`Python` · `SQL` · `PostgreSQL` · `Git` · `GitHub` · `AI agents` · `workflow design` · `technical documentation` · `Salesforce / CRM`
+
+## Background
+
+My experience spans technical B2B sales, business operations, scientific research, laboratory coordination, procurement, customer enablement, and process design. I hold an M.S. in Biomedical Science and a B.A. in Biology and Chemistry.
+
+## Contact
+
+- GitHub: [@Deveroax](https://github.com/Deveroax)
+- Email: [NicRichards26@gmail.com](mailto:NicRichards26@gmail.com)
