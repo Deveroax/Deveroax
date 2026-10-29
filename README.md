@@ -17,7 +17,9 @@ I combine business operations, technical B2B experience, and scientific training
 ### [Fieldnote — Customer Operations Console](https://github.com/Deveroax/fieldnote-request-desk)
 A review-first fictional customer-request workflow: inspect source-linked facts and clarification questions, edit a draft, then export a locally reviewed JSON record. The offline wave-3 implementation uses a Python service and vanilla JavaScript; default analysis is predetermined fixtures, with separate scripted-provider evaluation—not live AI extraction.
 
-**Demonstrates:** technical requirements discovery, human-review interaction design, source validation, stale-review prevention, and explicit failure reporting. The bounded v3 policy passes 378 scenarios; the broader historical v2 gate retains six failures. No production or customer-adoption claim.
+The published [offline pilot guide](https://github.com/Deveroax/fieldnote-request-desk/blob/e0ba019a0f131a0c27ec2dc7e4384702716acf6f/docs/offline-pilot.md) adds a reproducible 24-record fictional evaluation and a static report, separating proposed facts from accepted outputs. Scripted responses test the workflow and scoring—not model extraction quality.
+
+**Demonstrates:** technical requirements discovery, human-review interaction design, source validation, stale-review prevention, reproducible evaluation, and explicit failure reporting. The bounded v3 policy passes 378 scenarios; the broader historical v2 gate retains six failures. Runtime qualifications are documented in the guide. No live-model, production or customer-adoption claim.
 
 ### [Agent Operations Skills](https://github.com/Deveroax/agent-operations-skills)
 Practical playbooks for operating AI agents with clear approval boundaries, verification steps, and failure handling. Includes fictional examples and a tested documentation validator.
